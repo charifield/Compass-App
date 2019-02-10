@@ -1,0 +1,44 @@
+# Version: 9.8.1.4 (c7sr0: 3cf8aae)
+# [first argument, ignore] # /Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.8.1.4/bin/mtouch \
+	--cache \
+	/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhone/Debug/build-iphone7.1-9.0.2/mtouch-cache \
+	--dev \
+	/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/bin/unified/iPhone/Debug/build-iphone7.1-9.0.2/MobileAdsExample.app \
+	--executable \
+	MobileAdsExample \
+	--debug \
+	--profiling \
+	--linksdkonly \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.3 \
+	--targetver \
+	7.0 \
+	--new-refcount \
+	--http-message-handler=HttpClientHandler \
+	--tls-provider=default \
+	--abi=arm64 \
+	--symbollist \
+	/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhone/Debug/build-iphone7.1-9.0.2/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/MonoTouch.Dialog-1.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	-r \
+	/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhone/Debug/XBDResourceMerge/Google.MobileAds.dll \
+	-r \
+	/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/packages/Xamarin.Google.iOS.MobileAds.7.7.1.1/lib/Xamarin.iOS10/Google.MobileAds.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/bin/unified/iPhone/Debug//MobileAdsExample.exe \

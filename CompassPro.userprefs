@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{3239385E-DC6D-4466-89B4-67AE21D40CEF}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="CompassPro/ViewController.cs" Line="275" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CompassPro PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.58BC22B2-5500-43D8-A7E7-05EF9546052B" />
+</Properties>

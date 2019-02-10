@@ -1,0 +1,11 @@
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhoneSimulator/Debug/optimized/Default-568h@2x.png
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhoneSimulator/Debug/optimized/
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhoneSimulator/Debug/XBDResourceMerge/Google.MobileAds.dll
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/bin/unified/iPhoneSimulator/Debug/MobileAdsExample.exe.mdb
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/bin/unified/iPhoneSimulator/Debug/MobileAdsExample.exe
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhoneSimulator/Debug/MobileAdsExample.exe
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhoneSimulator/Debug/MobileAdsExample.exe.mdb
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/bin/unified/iPhoneSimulator/Debug/Google.MobileAds.dll

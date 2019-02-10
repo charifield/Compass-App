@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompassPro", "CompassPro\CompassPro.csproj", "{3239385E-DC6D-4466-89B4-67AE21D40CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3239385E-DC6D-4466-89B4-67AE21D40CEF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3239385E-DC6D-4466-89B4-67AE21D40CEF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3239385E-DC6D-4466-89B4-67AE21D40CEF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3239385E-DC6D-4466-89B4-67AE21D40CEF}.Release|iPhone.Build.0 = Release|iPhone
+		{3239385E-DC6D-4466-89B4-67AE21D40CEF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3239385E-DC6D-4466-89B4-67AE21D40CEF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{3239385E-DC6D-4466-89B4-67AE21D40CEF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3239385E-DC6D-4466-89B4-67AE21D40CEF}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal

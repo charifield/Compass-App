@@ -1,0 +1,6 @@
+/Users/Chari/Documents/Xamarin/CompassPro/CompassPro/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.iOS.dll
+/Users/Chari/Documents/Xamarin/CompassPro/CompassPro/obj/iPhone/Release/mtouch-cache/64/Link/CompassPro.exe
+/Users/Chari/Documents/Xamarin/CompassPro/CompassPro/obj/iPhone/Release/mtouch-cache/64/Link/System.dll
+/Users/Chari/Documents/Xamarin/CompassPro/CompassPro/obj/iPhone/Release/mtouch-cache/64/Link/Xamarin.Mobile.dll
+/Users/Chari/Documents/Xamarin/CompassPro/CompassPro/obj/iPhone/Release/mtouch-cache/64/Link/mscorlib.dll
+/Users/Chari/Documents/Xamarin/CompassPro/CompassPro/obj/iPhone/Release/mtouch-cache/64/Link/Google.MobileAds.dll

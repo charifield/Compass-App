@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="MobileAdsExample/MobileAdsExample.csproj">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../../../../CompassPro/ViewController.cs" Line="149" Column="4" />
+      <File FileName="MobileAdsExample/AppDelegate.cs" Line="1" Column="14" />
+      <File FileName="../../../../CompassPro/AppDelegate.cs" Line="76" Column="4" />
+      <File FileName="../../../../CompassPro/Entitlements.plist" />
+      <File FileName="../../../../CompassPro/Info.plist" />
+      <File FileName="../../../../CompassPro/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CompassPro" expanded="True">
+            <Node name="CompassPro" expanded="True">
+              <Node name="ComponentReferenceFolder" expanded="True" />
+              <Node name="Assets.xcassets" selected="True" />
+            </Node>
+          </Node>
+          <Node />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MobileAdsExample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.1a123b1266a6b3a33720e4becea776cbe396b7a2" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

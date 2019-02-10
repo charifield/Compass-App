@@ -1,0 +1,8 @@
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhone/Debug/build-iphone7.1-9.0.2/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhone/Debug/build-iphone7.1-9.0.2/mtouch-cache/Link/MonoTouch.Dialog-1.dll
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhone/Debug/build-iphone7.1-9.0.2/mtouch-cache/Link/MobileAdsExample.exe
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhone/Debug/build-iphone7.1-9.0.2/mtouch-cache/Link/System.Json.dll
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhone/Debug/build-iphone7.1-9.0.2/mtouch-cache/Link/System.dll
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhone/Debug/build-iphone7.1-9.0.2/mtouch-cache/Link/mscorlib.dll
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhone/Debug/build-iphone7.1-9.0.2/mtouch-cache/Link/System.Core.dll
+/Users/Chari/Documents/Xamarin/CompassPro/Components/googleiosmobileads-7.7.1.1/samples/MobileAdsExample/MobileAdsExample/obj/unified/iPhone/Debug/build-iphone7.1-9.0.2/mtouch-cache/Link/Google.MobileAds.dll
